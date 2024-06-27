@@ -1,0 +1,6 @@
+tkinter
+threading
+imaplib
+email
+python-dotenv
+requests
